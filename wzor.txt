@@ -1,0 +1,2 @@
+To jest wzor do obliczania obwodu ko³a.
+Utworzony zosta³ w nowym branczu.
